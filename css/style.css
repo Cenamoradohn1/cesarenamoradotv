@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,400;0,600;0,700;1,100;1,700&display=swap');
+body{
+	background-image: url("../img/CEw-01.png");
+font-family: Josefin Sans;
+
+}
+.btn-light{
+	background-color: #F09E00;
+	margin: 10px;
+}
+.form-control{
+	margin: 20px;
+}
+#contacto{
+	padding: 70px;
+	background-color: #FFD09F;
+}
+footer{
+	background-color: #373737;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+
+header{
+	background-color: #F7F7F7;
+	
+}
+#portafolio{
+	align-self: flex-end;
+	padding: 30px;
+	font-style: italic; 
+}
+#portafolio h2{padding: 40px 0 ;}
+#portafolio p{
+	padding-top: 40px;
+}
+h3{
+	font-weight: 600;
+	padding-top: 40px;
+	text-align: center;
+	color: #F09E00;
+}
+#sobre {
+	padding: 90px;
+}
+ .icons{
+
+	margin-left: 220px;
+}
+h2{text-align: center;
+font-weight: 600;
+	padding-top: 80px;
+	
+}
